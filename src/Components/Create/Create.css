@@ -1,0 +1,41 @@
+.createParentDiv{
+  height: auto;
+  width: 30%;
+  margin-left: 35%;
+  margin-top: 5%;
+  text-align: center;
+  border: 2px solid;
+}
+
+.input{
+  height: 25px;
+  width: 50%;
+  margin-bottom: 5%;
+  font-size: medium;
+  font-family: 'Courier New', Courier, monospace;
+  border-top: transparent;
+  border-left: transparent;
+  border-right: transparent;
+}
+
+.inputImage{
+  margin-bottom: 5%;
+  margin-left: 15%;
+}
+
+.submit{
+  width: 40%;
+  height: 48px;
+  margin-bottom:5% ;
+  padding: 7px;
+  background-color: #002f34;
+  font-weight: 900;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.submit:hover{
+  color: black;
+  background-color: white;
+}
